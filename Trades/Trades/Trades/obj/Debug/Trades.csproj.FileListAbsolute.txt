@@ -1,0 +1,11 @@
+C:\Users\IT-student.MEPHI3.010\Desktop\Новая папка\Trades\Trades\bin\Debug\Trades.exe.config
+C:\Users\IT-student.MEPHI3.010\Desktop\Новая папка\Trades\Trades\bin\Debug\Trades.exe
+C:\Users\IT-student.MEPHI3.010\Desktop\Новая папка\Trades\Trades\bin\Debug\Trades.pdb
+C:\Users\IT-student.MEPHI3.010\Desktop\Новая папка\Trades\Trades\obj\Debug\Trades.csprojResolveAssemblyReference.cache
+C:\Users\IT-student.MEPHI3.010\Desktop\Новая папка\Trades\Trades\obj\Debug\Trades.FormAvtorization.resources
+C:\Users\IT-student.MEPHI3.010\Desktop\Новая папка\Trades\Trades\obj\Debug\Trades.Properties.Resources.resources
+C:\Users\IT-student.MEPHI3.010\Desktop\Новая папка\Trades\Trades\obj\Debug\Trades.csproj.GenerateResource.cache
+C:\Users\IT-student.MEPHI3.010\Desktop\Новая папка\Trades\Trades\obj\Debug\Trades.csproj.CoreCompileInputs.cache
+C:\Users\IT-student.MEPHI3.010\Desktop\Новая папка\Trades\Trades\obj\Debug\Trades.exe
+C:\Users\IT-student.MEPHI3.010\Desktop\Новая папка\Trades\Trades\obj\Debug\Trades.pdb
+C:\Users\IT-student.MEPHI3.010\Desktop\Новая папка\Trades\Trades\obj\Debug\Trades.FormProduct.resources
